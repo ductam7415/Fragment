@@ -4,6 +4,7 @@
    + CreateView
    + on Start 
    + on Sesume
+   
 2 khi ta xoay màn hình của app thì sẽ xuất hiện các hàm
    + on Pause
    + on Stop
@@ -14,6 +15,7 @@
    + on CreateView
    + on Start
    + on Resume
+   
 3 Lúc đang chạy thì nhấp nút home sẽ  xuất hiện các hàm
    + on Pause
    + on Stop
